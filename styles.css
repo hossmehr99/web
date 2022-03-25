@@ -1,0 +1,11 @@
+@media (pointer: fine) {
+    *{
+        direction: rtl;
+    }
+}
+
+@media (pointer: coarse) {
+    *{
+        direction: ltr;
+    }
+}
